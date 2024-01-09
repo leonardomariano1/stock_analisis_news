@@ -2,6 +2,10 @@
 
 This Python script creates a web-based dashboard using Dash, a framework for building interactive web applications. The dashboard provides a combination of financial news headlines and a candlestick chart for stock analysis. It leverages various libraries, including BeautifulSoup for web scraping, yfinance for fetching stock data, and Plotly for creating interactive charts.
 
+
+https://github.com/leonardomariano1/stock_analisis_news/assets/143562678/66a52d57-fd40-4cb8-9651-455df78e01b5
+
+
 ## Prerequisites
 
 Before running the script, make sure you have the following Python libraries installed:
